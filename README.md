@@ -1,3 +1,3 @@
-# pycoingecko crypto price over the last 30 days with candlestick chart
+# bitcoin price over the last 30 days with candlestick chart using the pycoingeckoAPI
 
  
